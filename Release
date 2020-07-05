@@ -1,7 +1,7 @@
-Origin: KidsAuto Pro v9 Repo
-Label: KidsAuto Pro v9 Repo
+Origin: KidsAutoProv9.1 Repo
+Label: KidsAutoProv9.1 Repo
 Suite: stable
-Version: 1.0
+Version: 9.1
 Codename: ios
 Architecture: iphoneos-arm
 Components: main

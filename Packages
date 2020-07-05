@@ -1,4 +1,4 @@
-﻿Package: com.kidsautopro.kidsauto
+Package: com.kidsautopro.kidsauto
 Name: KidsAutoPro v9
 Version: 9.0
 Architecture: iphoneos-arm
@@ -8,8 +8,8 @@ Maintainer: Developer by Tuệ Mobi <https://www.facebook.com/kidsauto91>
 Section: System
 Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
 Filename: ./Debs/KidsAutoProv9.0.deb
-Size: 287486
-MD5sum: effcf8b932d32eb517a1d80091bf8278
+Size: 380524
+MD5sum: 507f64dee00827142ee9df4eaa3f5dce
 Depends: preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, ws.hbang.repower, com.cydiageek.coysim, applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.locationchanger,com.kidsauto.kidsdaemon,com.kidsauto.kidsrestore,com.kidsauto.kidsdeviceinfo,ch.ringwald.hidsupport,jp.ashikase.mousesupport
 
@@ -23,8 +23,8 @@ Maintainer: Developer by Tuệ Mobi <https://www.facebook.com/kidsauto91>
 Section: System
 Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
 Filename: ./Debs/KidsAutoProv901.deb
-Size: 287486
-MD5sum: effcf8b932d32eb517a1d80091bf8278
+Size: 380522
+MD5sum: e4dd16e0f797f0ba45e2ed940c2d2bbf
 Depends: preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, ws.hbang.repower, com.cydiageek.coysim, applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.locationchanger,com.kidsauto.kidsdaemon,com.kidsauto.kidsrestore,com.kidsauto.kidsdeviceinfo,ch.ringwald.hidsupport,jp.ashikase.mousesupport
 

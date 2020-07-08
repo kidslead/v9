@@ -1,4 +1,4 @@
-﻿Package: com.kidsautopro.kidsauto
+Package: com.kidsautopro.kidsauto
 Name: KidsAutoPro v9
 Version: 9.0
 Architecture: iphoneos-arm
@@ -8,8 +8,8 @@ Maintainer: Developer by Tuệ Mobi <https://www.facebook.com/kidsauto91>
 Section: System
 Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
 Filename: ./Debs/KidsAutoProv9.0.deb
-Size: 379172
-MD5sum: bea1fa446305dad1ab712ba05f565784
+Size: 374362
+MD5sum: ad85168d3369b9653560c421b1880af0
 Depends: preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, ws.hbang.repower, com.cydiageek.coysim, applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.locationchanger,com.kidsauto.kidsdaemon,com.kidsauto.kidsrestore,com.kidsauto.kidsdeviceinfo,ch.ringwald.hidsupport,jp.ashikase.mousesupport
 
@@ -23,10 +23,22 @@ Maintainer: Developer by Tuệ Mobi <https://www.facebook.com/kidsauto91>
 Section: System
 Tag: role::hacker, compatible::ios11, compatible::ios12, compatible::ios13
 Filename: ./Debs/KidsAutoProv901.deb
-Size: 379172
-MD5sum: bea1fa446305dad1ab712ba05f565784
+Size: 374352
+MD5sum: 34e59a32feef72074a4ca5ca25349437
 Depends: preferenceloader, com.conradkramer.open, com.rpetrich.rocketbootstrap, zip, unzip, openssh, rsync, jetslammed, socat, sudo, ws.hbang.repower, com.cydiageek.coysim, applist
 Conflicts: com.rbt.useragentchanger,com.autopear.installipa,com.kidsauto.locationchanger,com.kidsauto.kidsdaemon,com.kidsauto.kidsrestore,com.kidsauto.kidsdeviceinfo,ch.ringwald.hidsupport,jp.ashikase.mousesupport
+
+Package: com.hpplugin.hpplugin2
+Name: HPPlugin3.1
+Version: 3.1
+Architecture: iphoneos-arm
+Description: HPauto Plugin!!!
+Maintainer: Dev by BienBop
+Author: Bien Bop
+Section: Utilities
+Filename: ./Debs/hpplugin2_3.1.deb
+Size: 31138
+MD5sum: 2329e66bb12a72c2d4256d77a7208eb9
 
 Package: com.kidsautopro.kidssupport
 Name: KidsSupport
